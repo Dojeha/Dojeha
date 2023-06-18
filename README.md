@@ -22,4 +22,4 @@
 ![Docker badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 **[ Contact Me ]**<br>
-<a href="mailto:dojeha22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![Gmail badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dojeha22@gmail.com)
