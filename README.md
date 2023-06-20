@@ -9,6 +9,7 @@
 ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PHP badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![Lua badge](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)
 
 **[ Frontend ]**  
 ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
