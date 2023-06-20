@@ -16,7 +16,7 @@
 ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B7?style=flat-square&logo=CSS3&logoColor=white)
 
 **[ Backend ]**  
-![Node.js badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node&logoColor=white)
+![Node.js badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Mysql badge](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
